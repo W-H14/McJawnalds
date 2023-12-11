@@ -1,0 +1,63 @@
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+
+}
+
+.container {
+    margin-top: 20px;
+    background-color: #dc3545;
+    
+}
+
+
+header {
+    background-color: #dc3545;
+    padding: 10px 0;
+}
+
+#logo a {
+    color: rgb(137, 137, 7);
+    text-decoration: none;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+#butt {
+    margin-top: 10px;
+   
+}
+#Instagram {
+    margin-right: 10px; 
+}
+
+#Twitter {
+    margin-left: 100px; 
+}
+
+.modal-body {
+    background-color: #dc3545;
+    color: #fff;
+}
+
+.card {
+    margin: 20px 5px;
+}
+
+
+footer {
+    background-color: #dc3545;
+    color: #fff;
+    padding: 10px 0;
+}
+
+
+.card-img-top {
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+    margin: 10px auto;
+}
+.card-text {
+    font-style: italic;
+}
